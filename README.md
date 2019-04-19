@@ -21,3 +21,13 @@
     [fieldset, legend元素](https://www.zhangxinxu.com/wordpress/?p=5730)
 
 6. [DOM基础测试29：closest 和 closestAll 方法的实现](https://github.com/wingmeng/front-end-quiz/issues/6)
+    > 专家解答：[https://www.bilibili.com/video/av46416094/（视频）](https://www.bilibili.com/video/av46416094/)
+
+7. [CSS基础测试4：聊天界面布局](https://github.com/wingmeng/front-end-quiz/issues/7)
+    > 专家解答：[https://www.bilibili.com/video/av47918901/（视频）](https://www.bilibili.com/video/av47918901/)
+
+8. [JS基础测试30：字符串长度判断](https://github.com/wingmeng/front-end-quiz/issues/8)
+    > 专家解答：[https://www.bilibili.com/video/av48740887/（视频）](https://www.bilibili.com/video/av48740887/)
+    
+9. [DOM基础测试30：滑动条](https://github.com/wingmeng/front-end-quiz/issues/9)
+    > 专家解答：[https://www.bilibili.com/video/av49150425/（视频）](https://www.bilibili.com/video/av49150425/)    
