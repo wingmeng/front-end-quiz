@@ -4,6 +4,25 @@
 >
 > 答题积分排行榜：[2019第一学期小测积分排行](https://www.zhangxinxu.com/php/quiz)
 
+---
+
+1. [JS基础测试32：cookie 及 localStorage 操作](https://github.com/wingmeng/front-end-quiz/issues/14)
+  （[视频答疑](https://www.bilibili.com/video/av53669812)）
+
+1. [CSS基础测试6：音频播放器UI](https://github.com/wingmeng/front-end-quiz/issues/13)
+  （[视频答疑](https://www.bilibili.com/video/av52817099/)）
+
+1. [DOM小测31期：DOM伪类选择器](https://github.com/wingmeng/front-end-quiz/issues/12)
+  （[视频答疑](https://www.bilibili.com/video/av52277058)）
+
+1. [JS基础测试31：种子随机数](https://github.com/wingmeng/front-end-quiz/issues/11)
+  （[视频答疑](https://www.bilibili.com/video/av50616143)）
+  
+1. [CSS基础测试5：等比缩放正方形布局](https://github.com/wingmeng/front-end-quiz/issues/10)
+  （[视频答疑](https://www.bilibili.com/video/av49911230/) |
+   [CSS Grid布局参考文章](https://www.zhangxinxu.com/wordpress/2018/11/display-grid-css-css3/) |
+   [CSS Flex布局参考文章](https://www.zhangxinxu.com/wordpress/2018/10/display-flex-css3-css/)）
+
 1. [DOM基础测试30：滑动条](https://github.com/wingmeng/front-end-quiz/issues/9)
   （[视频答疑](https://www.bilibili.com/video/av49150425/)）
   
