@@ -5,7 +5,9 @@
 > 答题积分排行榜：[2019第一学期小测积分排行](https://www.zhangxinxu.com/php/quiz)
 
 ---
-
+1. [DOM基础测试32：长按与范围选取](https://github.com/wingmeng/front-end-quiz/issues/15)
+  （[视频答疑](https://www.bilibili.com/video/av54223056/)）
+  
 1. [JS基础测试32：cookie 及 localStorage 操作](https://github.com/wingmeng/front-end-quiz/issues/14)
   （[视频答疑](https://www.bilibili.com/video/av53669812)）
 
