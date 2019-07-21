@@ -2,9 +2,29 @@
 
 > 收集、整理自己在 [zhangxinxu/quiz](https://github.com/zhangxinxu/quiz/issues) 上的答题
 >
-> 答题积分排行榜：[2019第一学期小测积分排行](https://www.zhangxinxu.com/php/quiz)
+> [答题积分排行榜](https://www.zhangxinxu.com/php/quiz)
 
 ---
+
+### 2019 下半学期
+
+1. [CSS基础测试9：文本标题与标签排版](https://github.com/wingmeng/front-end-quiz/issues/20)
+  （暂未放出）
+
+1. [JS基础测试34期：数组基本操作](https://github.com/wingmeng/front-end-quiz/issues/19)
+  （[视频答疑](https://www.bilibili.com/video/av58170184)）
+
+### 2019 上半学期
+
+1. [CSS基础测试8：根据数量自适应宽度布局](https://github.com/wingmeng/front-end-quiz/issues/18)
+  （[视频答疑](https://www.bilibili.com/video/av57195578)）
+  
+1. [JS基础测试33：自定义 toFixed 方法](https://github.com/wingmeng/front-end-quiz/issues/17)
+  （未录播）
+  
+1. [CSS基础测试7：紧贴底部的页脚](https://github.com/wingmeng/front-end-quiz/issues/16)
+  （[视频答疑](https://www.bilibili.com/video/av55645708/)）
+  
 1. [DOM基础测试32：长按与范围选取](https://github.com/wingmeng/front-end-quiz/issues/15)
   （[视频答疑](https://www.bilibili.com/video/av54223056/)）
   
