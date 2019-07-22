@@ -9,7 +9,7 @@
 ### 2019 下半学期
 
 1. [CSS基础测试9：文本标题与标签排版](https://github.com/wingmeng/front-end-quiz/issues/20)
-  （暂未放出）
+  （[视频答疑](https://www.bilibili.com/video/av59949127)）
 
 1. [DOM基础测试34：链接元素的选取与操作](https://github.com/wingmeng/front-end-quiz/issues/21)
   （[视频答疑](https://www.bilibili.com/video/av58980453)）
