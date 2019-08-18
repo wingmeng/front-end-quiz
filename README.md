@@ -6,6 +6,8 @@
 
 ---
 
+> 下述目录按时间倒序排列
+
 ### 2019 下半学期
 
 1. [JS基础测试36期：图片异步上传](https://github.com/wingmeng/front-end-quiz/issues/25)
