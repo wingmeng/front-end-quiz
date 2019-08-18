@@ -8,11 +8,24 @@
 
 ### 2019 下半学期
 
-1. [CSS基础测试9：文本标题与标签排版](https://github.com/wingmeng/front-end-quiz/issues/20)
-  （[视频答疑](https://www.bilibili.com/video/av59949127)）
+1. [JS基础测试36期：图片异步上传](https://github.com/wingmeng/front-end-quiz/issues/25)
+  （[视频答疑](https://www.bilibili.com/video/av64122335)）
+
+1. [CSS基础测试10：纯 CSS 实现下拉菜单](https://github.com/wingmeng/front-end-quiz/issues/24)
+  （[视频答疑](https://www.bilibili.com/video/av63183213)）
+
+1. [DOM基础测试35：表单元素](https://github.com/wingmeng/front-end-quiz/issues/23)
+  （[视频答疑](https://www.bilibili.com/video/av61984706)）
+
+1. [JS基础测试35期：URL传值操作](https://github.com/wingmeng/front-end-quiz/issues/22)
+  （[视频答疑](https://www.bilibili.com/video/av60953633) | 
+  [单元测试](http://quiz.xiliz.com/qunit35.html)）
 
 1. [DOM基础测试34：链接元素的选取与操作](https://github.com/wingmeng/front-end-quiz/issues/21)
   （[视频答疑](https://www.bilibili.com/video/av58980453)）
+  
+1. [CSS基础测试9：文本标题与标签排版](https://github.com/wingmeng/front-end-quiz/issues/20)
+  （[视频答疑](https://www.bilibili.com/video/av59949127)）  
   
 1. [JS基础测试34期：数组基本操作](https://github.com/wingmeng/front-end-quiz/issues/19)
   （[视频答疑](https://www.bilibili.com/video/av58170184)）
