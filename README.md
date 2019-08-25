@@ -10,6 +10,9 @@
 
 ### 2019 下半学期
 
+1. [DOM基础测试36：textarea DOM操作](https://github.com/wingmeng/front-end-quiz/issues/26)
+  （[视频答疑](https://www.bilibili.com/video/av65187484)）
+
 1. [JS基础测试36期：图片异步上传](https://github.com/wingmeng/front-end-quiz/issues/25)
   （[视频答疑](https://www.bilibili.com/video/av64122335)）
 
