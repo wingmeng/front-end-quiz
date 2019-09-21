@@ -11,10 +11,10 @@
 ### 2019 下半学期
 
 1. [CSS基础测试12：图片角标](https://github.com/wingmeng/front-end-quiz/issues/30)
-  <!--（[视频答疑](https://www.bilibili.com/video/av66195390)）-->
+  （视频答疑暂无）
 
 1. [DOM基础测试37：<dialog> 元素](https://github.com/wingmeng/front-end-quiz/issues/29)
-  <!--（[视频答疑](https://www.bilibili.com/video/av66195390)）-->
+  （视频答疑暂无）
 
 1. [JS基础测试37期：数值格式处理/单位换算](https://github.com/wingmeng/front-end-quiz/issues/28)
   （[视频答疑](https://www.bilibili.com/video/av66886926)）
