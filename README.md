@@ -10,8 +10,26 @@
 
 ### 2019 下半学期
 
+1. [CSS基础测试15：网格导航布局](https://github.com/wingmeng/front-end-quiz/issues/39)
+  （[视频答疑](https://www.bilibili.com/video/av77516776)）
+
+1. [DOM基础测试40：列表点击、方向键操作](https://github.com/wingmeng/front-end-quiz/issues/38)
+  （[视频答疑](https://www.bilibili.com/video/av77516436)）
+
+1. [JS基础测试40：字符串格式书写方式转换](https://github.com/wingmeng/front-end-quiz/issues/37)
+  （[视频答疑](https://www.bilibili.com/video/av77516436) | [测试页面地址](http://quiz.xiliz.com/qunit40.html)）
+
+1. [CSS基础测试14：steps - 步骤条](https://github.com/wingmeng/front-end-quiz/issues/36)
+  （[视频答疑](https://www.bilibili.com/video/av75042558)）
+
+1. [DOM基础测试39：缩略图查看与拖动排序](https://github.com/wingmeng/front-end-quiz/issues/35)
+  （[视频答疑](https://www.bilibili.com/video/av74229607)）
+
+1. [JS基础测试39：HEX 颜色处理和伪随机色](https://github.com/wingmeng/front-end-quiz/issues/34)
+  （[视频答疑](https://www.bilibili.com/video/av73445271) | [测试页面地址](http://quiz.xiliz.com/qunit39.html)）
+
 1. [CSS基础测试13：GitHub Repo 工具条](https://github.com/wingmeng/front-end-quiz/issues/33)
-  （视频答疑暂无）
+  （[视频答疑](https://www.bilibili.com/video/av73445027)）
 
 1. [DOM基础测试38：表单元素伪类选择器](https://github.com/wingmeng/front-end-quiz/issues/32)
   （[视频答疑](https://www.bilibili.com/video/av71132928)）
