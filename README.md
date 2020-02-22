@@ -10,6 +10,18 @@
 
 ### 2019 下半学期
 
+1. [JS基础测试42：emoji 字符处理](https://github.com/wingmeng/front-end-quiz/issues/43)
+  （[视频答疑](https://www.bilibili.com/video/av80960607)）
+  
+1. [CSS基础测试16：两栏垂直居中布局](https://github.com/wingmeng/front-end-quiz/issues/42)
+  （[视频答疑](https://www.bilibili.com/video/av80950555)）
+  
+1. [DOM基础测试41：手机号码输入体验优化](https://github.com/wingmeng/front-end-quiz/issues/41)
+  （[视频答疑](https://www.bilibili.com/video/av79175645)）
+  
+1. [JS基础测试41：手机号字符处理](https://github.com/wingmeng/front-end-quiz/issues/40)
+  （[视频答疑](https://www.bilibili.com/video/av78339873)）  
+
 1. [CSS基础测试15：网格导航布局](https://github.com/wingmeng/front-end-quiz/issues/39)
   （[视频答疑](https://www.bilibili.com/video/av77516776)）
 
